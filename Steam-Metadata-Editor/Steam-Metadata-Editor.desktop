@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Steam-Metadata-Editor
+Exec=steammetadataeditor
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Utilities
